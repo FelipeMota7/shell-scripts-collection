@@ -5,7 +5,9 @@ O script escrito foi um problema de conversão de imagens que exigia muito tempo
 # Uso
 
 - Uma das primeiras coisas que deve fazer é modificar o meu código e usar o caminho que responde aonde está as imagens a ser convertidas, segue:
+
 ![example](https://i.imgur.com/OD9vJi9.png)
 
 - Saída com sucesso:
+
 ![example](https://i.imgur.com/ZTDvqbV.png)
