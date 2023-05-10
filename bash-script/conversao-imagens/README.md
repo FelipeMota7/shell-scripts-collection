@@ -1,6 +1,6 @@
 # JPG para PNG
 
-O script escrito foi um problema de conversão de imagens que exigia muito tempo para converter todas as imagens JPG para PNG, por isso a solução para converter todos de uma vez e passar para um diretório. Claro que poderíamos usar: convert imagem.png imagem.jpg, mas aí seria muito trabalho pra 100 imagens, né? 
+O script escrito foi um problema de conversão de imagens que exigia muito tempo para converter todas as imagens JPG para PNG, por isso a solução para converter todos de uma vez e passar para um diretório. Claro que poderíamos usar: **convert imagem.png imagem.jpg**, mas aí seria muito trabalho pra 100 imagens, né? 
 
 # Uso
 
