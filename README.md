@@ -4,4 +4,4 @@ Shell Scripts é um modelo de linguagem de automação de tarefas em sistemas op
 
 # Shells
 - [Bash](https://github.com/FelipeMota7/shell-scripts-collection/tree/main/bash-script/)
-- PowerShell
+- [PowerShell](https://github.com/FelipeMota7/shell-scripts-collection/tree/main/powershell-script)
